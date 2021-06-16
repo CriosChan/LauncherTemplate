@@ -14,11 +14,11 @@ Maintenance status : ![#17FF00](https://via.placeholder.com/15/17FF00/000000?tex
 Download the project, open it in [INTELLIJ IDEA](https://www.jetbrains.com/idea/), then buy yourself a web server, or use 000webhost, install [S-UPDATE](https://github.com/Litarvan/S-Update) \
 In the files, replace SERVER NAME with the name of your server. Replace SUPDATE LINK SERVER by link to your SUPDATE serveur. Change 1.12.2 by your version in Launcher.java, if the version of minecraft is lower than 1.8 change GameType.V1_8_HIGHER by GameType.V1_7_10 or other \
 \
-Use these videos (in French) to help you :
-https://www.youtube.com/watch?v=37a3vK_M6-A
-https://www.youtube.com/watch?v=V2Q6KcYB2Cw
-https://www.youtube.com/watch?v=J2HiK0Rnx50
-https://www.youtube.com/watch?v=54jKg_oNsQA
+Use these videos (in French) to help you : \
+https://www.youtube.com/watch?v=37a3vK_M6-A \
+https://www.youtube.com/watch?v=V2Q6KcYB2Cw \
+https://www.youtube.com/watch?v=J2HiK0Rnx50 \
+https://www.youtube.com/watch?v=54jKg_oNsQA 
 
 ## Available Language
 The launcher is in English but the tutorials to help understand it are in French.
