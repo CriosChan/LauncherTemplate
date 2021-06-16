@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AlfheimOnlineLauncher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AlfheimOnlineLauncher_jar</output-path>
+    <root id="archive" name="AlfheimOnlineLauncher.jar">
+      <element id="module-output" name="Launcher Template" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gson-2.8.2 (1).jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/openauth-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/AuthMineweb_1.3.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/swinger-1.0.0-BETA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/s-update-3.1.0-BETA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/openlauncherlib-3.0.4.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/fr/crioschan/alfheimonline/launcher/ressource" />
+    </root>
+  </artifact>
+</component>
