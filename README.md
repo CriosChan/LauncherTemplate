@@ -11,7 +11,7 @@ Update Statut : ![#17FF00](https://via.placeholder.com/15/17FF00/000000?text=+) 
 Maintenance status : ![#17FF00](https://via.placeholder.com/15/17FF00/000000?text=+) `Available` 
 
 ## How to install
-Download the project, open it in [INTELLIJ IDEA](https://www.jetbrains.com/idea/), then buy yourself a web server, or use 000webhost, install [S-UPDATE](https://github.com/Litarvan/S-Update) \
+Download the project, open it in [INTELLIJ IDEA](https://www.jetbrains.com/idea/), then buy yourself a web server, or use 000webhost, install [S-UPDATE](https://github.com/Litarvan/S-Update) In SUPDATE add a folder "files", download a pack from https://packs.alwyn974.re, extract it and put it in the "files" folder \
 In the files, replace SERVER NAME with the name of your server. Replace SUPDATE LINK SERVER by link to your SUPDATE serveur. Change 1.12.2 by your version in Launcher.java, if the version of minecraft is lower than 1.8 change GameType.V1_8_HIGHER by GameType.V1_7_10 or other \
 \
 Use these videos (in French) to help you : \
